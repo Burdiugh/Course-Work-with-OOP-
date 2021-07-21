@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kursa4WithFiles", "Kursa4WithFiles.vcxproj", "{2F1219EB-DF17-484E-BFCA-385F436F90AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Debug|x64.ActiveCfg = Debug|x64
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Debug|x64.Build.0 = Debug|x64
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Debug|x86.Build.0 = Debug|Win32
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Release|x64.ActiveCfg = Release|x64
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Release|x64.Build.0 = Release|x64
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Release|x86.ActiveCfg = Release|Win32
+		{2F1219EB-DF17-484E-BFCA-385F436F90AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A9229E-8331-45D3-AD34-1D79FE1CDF34}
+	EndGlobalSection
+EndGlobal

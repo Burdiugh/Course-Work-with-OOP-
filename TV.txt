@@ -1,0 +1,13 @@
+Lg
+Movie
+TV
+500
+12
+34
+0Samsung
+Qled
+TV
+1275
+55
+67
+1
